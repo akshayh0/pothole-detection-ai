@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Temporary files
+temp_frame.jpg
+
+# Output
+pothole_detection_output.mp4
+
+# Secrets
+.env
